@@ -64,7 +64,7 @@ const Index = () => {
               Вывоз мусора и доставки по Ростову-на-Дону
             </h1>
             <p className="text-xl text-muted-foreground mb-8">
-              Быстро, надежно и по честным ценам. Работаем 24/7 без выходных. Более 10 лет на рынке.
+              Быстро, надёжно и по честным ценам
             </p>
             <div className="flex flex-wrap gap-4">
               <Button size="lg" className="text-lg px-8" onClick={() => scrollToSection('contacts')}>
