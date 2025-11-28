@@ -563,17 +563,6 @@ const Index = () => {
                   </div>
 
                   <div className="flex items-start gap-4">
-                    <Icon name="MapPin" className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
-                    <div>
-                      <strong className="block mb-1">Адрес офиса</strong>
-                      <p className="text-muted-foreground">
-                        г. Москва, ул. Промышленная, д. 15<br />
-                        Пн-Пт: 9:00 - 18:00
-                      </p>
-                    </div>
-                  </div>
-
-                  <div className="flex items-start gap-4">
                     <Icon name="Clock" className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
                     <div>
                       <strong className="block mb-1">График работы</strong>
