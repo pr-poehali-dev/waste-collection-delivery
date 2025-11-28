@@ -21,7 +21,7 @@ const Index = () => {
                 alt="ДоставиК" 
                 className="h-12 w-12 object-contain"
               />
-              <span className="text-2xl font-bold text-primary">ДоставиК</span>
+              <span className="text-2xl font-bold text-primary">ПроСервеси</span>
             </div>
             
             <nav className="hidden md:flex gap-8">
