@@ -243,30 +243,6 @@ const Index = () => {
                 </ul>
               </CardContent>
             </Card>
-
-            <Card className="hover:shadow-lg transition-shadow">
-              <CardContent className="p-6">
-                <Icon name="Trash2" className="w-10 h-10 mb-4 text-primary" />
-                <h3 className="text-xl font-bold mb-3">Контейнерный вывоз</h3>
-                <p className="text-muted-foreground mb-4">
-                  Установка контейнеров на период ремонта или стройки с регулярным вывозом.
-                </p>
-                <ul className="space-y-2 text-sm">
-                  <li className="flex items-center gap-2">
-                    <Icon name="Check" className="w-4 h-4 text-secondary" />
-                    Контейнеры 8-20 м³
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Icon name="Check" className="w-4 h-4 text-secondary" />
-                    Регулярный вывоз
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Icon name="Check" className="w-4 h-4 text-secondary" />
-                    Аренда на любой срок
-                  </li>
-                </ul>
-              </CardContent>
-            </Card>
           </div>
         </div>
       </section>
