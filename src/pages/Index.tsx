@@ -351,41 +351,6 @@ const Index = () => {
                 </Button>
               </CardContent>
             </Card>
-
-            <Card className="hover:shadow-lg transition-shadow">
-              <CardContent className="p-8">
-                <div className="text-center mb-6">
-                  <Icon name="Truck" className="w-12 h-12 mx-auto mb-4 text-primary" />
-                  <h3 className="text-2xl font-bold mb-2">КамАЗ</h3>
-                  <p className="text-muted-foreground text-sm">До 6 тонн, 20 м³</p>
-                </div>
-                <div className="text-center mb-6">
-                  <span className="text-4xl font-bold">12 000₽</span>
-                  <span className="text-muted-foreground">/выезд</span>
-                </div>
-                <ul className="space-y-3 mb-6">
-                  <li className="flex items-center gap-2">
-                    <Icon name="Check" className="w-5 h-5 text-secondary" />
-                    <span>Строительный мусор</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Icon name="Check" className="w-5 h-5 text-secondary" />
-                    <span>Большой объем</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Icon name="Check" className="w-5 h-5 text-secondary" />
-                    <span>4 грузчика</span>
-                  </li>
-                  <li className="flex items-center gap-2">
-                    <Icon name="Check" className="w-5 h-5 text-secondary" />
-                    <span>Полный комплекс</span>
-                  </li>
-                </ul>
-                <Button className="w-full" onClick={() => scrollToSection('contacts')}>
-                  Заказать
-                </Button>
-              </CardContent>
-            </Card>
           </div>
 
           <div className="mt-12 text-center">
