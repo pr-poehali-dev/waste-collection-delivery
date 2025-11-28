@@ -93,7 +93,7 @@ const Index = () => {
               <CardContent className="pt-8">
                 <Icon name="Truck" className="w-12 h-12 mx-auto mb-4 text-primary" />
                 <h3 className="font-bold text-lg mb-2">Свой автопарк</h3>
-                <p className="text-muted-foreground">ГАЗели и КамАЗы для любого объема</p>
+                <p className="text-muted-foreground">ГАЗели для любого объема</p>
               </CardContent>
             </Card>
             
