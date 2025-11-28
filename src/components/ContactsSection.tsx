@@ -152,7 +152,6 @@ const ContactsSection = () => {
               <ul className="space-y-2 text-sm text-gray-400">
                 <li>+7 (495) 123-45-67</li>
                 <li>info@dostavik.ru</li>
-                <li>Москва, ул. Промышленная, 15</li>
                 <li>Работаем 24/7</li>
               </ul>
             </div>
