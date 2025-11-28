@@ -61,7 +61,7 @@ const Index = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-3xl">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-              Профессиональный вывоз мусора в Москве и области
+              Вывоз мусора и доставки по Ростову-на-Дону
             </h1>
             <p className="text-xl text-muted-foreground mb-8">
               Быстро, надежно и по честным ценам. Работаем 24/7 без выходных. Более 10 лет на рынке.
